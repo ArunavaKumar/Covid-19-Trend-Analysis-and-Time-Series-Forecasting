@@ -1,0 +1,2 @@
+# Covid-19-Trend-Analysis
+As the Covid-19 outbreaks rapidly all over the world day by day and also affects the lives of million, a number of countries declared complete lockdown to check its intensity. Here I developed an experimental approach to analyse the trend of this pandemic all over the India. For this experiment I mailny used some popular python packages like - pandas, numpy for computational purpose; matplotlib, plotly, seaborn, dash for visualization purpose. Finally I developed a interactive dashboard for displaying the final analysis for each state of India.
